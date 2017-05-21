@@ -1,0 +1,12 @@
+bin
+obj
+*.suo
+*.user
+*.sln.docstates
+
+[DB]ebug/
+[Rr]elease/
+*.obj
+*.pdb
+
+_Resharper*
